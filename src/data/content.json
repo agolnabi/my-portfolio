@@ -1,0 +1,168 @@
+{
+  "hero": {
+    "name": "Amir H. Golnabi, Ph.D.",
+    "title": "MedTech R&D Leader | Scientific & People Leadership",
+    "pitch": "I am a MedTech R&D leader with 15+ years translating biomedical science and computational modeling into clinically impactful products. I currently lead peritoneal dialysis R&D at Fresenius Medical Care and drive end-to-end therapy development informed by advanced simulation work. I led the PD kinetic model simulator through 14+ progressive iterations and completed 175+ sensor-testing experiments supporting precision PD decisions. I also build and mentor cross-functional teams to deliver regulated, data-driven medical device programs.",
+    "profileImage": "/ProfilePicture.jpg",
+    "email": "agolnabi@gmail.com",
+    "linkedin": "https://linkedin.com/in/agolnabi",
+    "openTo": ["Remote", "Hybrid", "Greater NYC / NJ", "US Citizen — No Sponsorship"]
+  },
+  "experience": [
+    {
+      "company": "Fresenius Medical Care",
+      "title": "Sr. Staff Scientist - R&D PD, Home",
+      "dates": "2025-09 - present",
+      "location": "New York, NY",
+      "bullets": [
+        "Lead and mentor scientists and engineers to deliver one of the few R&D projects consistently on track in 2025 (performance rating: 3.5/4.0).",
+        "Drive end-to-end peritoneal dialysis R&D programs coordinating engineering, clinical, regulatory, quality, and manufacturing stakeholders.",
+        "Spearhead the PD kinetic model simulator through 14+ progressive iterations to optimize therapy design and performance."
+      ]
+    },
+    {
+      "company": "Fresenius Medical Care",
+      "title": "Staff Scientist - R&D PD, Home",
+      "dates": "2023-04 - 2025-08",
+      "location": "New York, NY",
+      "bullets": [
+        "Built and led a high-performing research team and completed 175+ sensor-testing experiments that informed PD connectology decisions.",
+        "Led development of glucose estimation algorithms and electrolyte concentration models using ultrasound measurements.",
+        "Designed and implemented computational frameworks for therapy performance data analysis and contributed to strategic PD roadmaps."
+      ]
+    },
+    {
+      "company": "AI4ALL",
+      "title": "Training & Instruction Manager, College Pathways",
+      "dates": "2021-08 - 2023-04",
+      "location": "Remote",
+      "bullets": [
+        "Led curriculum strategy and program delivery across multiple university sites, improving program consistency and scalability.",
+        "Managed distributed instructors and technical staff with hiring, onboarding, and performance management responsibilities.",
+        "Drove program improvements using data-driven evaluation of participant outcomes and operational metrics."
+      ]
+    },
+    {
+      "company": "Montclair State University",
+      "title": "Director, Center for Quantitative Obesity Research",
+      "dates": "2016-09 - 2020-06",
+      "location": "Montclair, NJ",
+      "bullets": [
+        "Founded and led an interdisciplinary research center, setting strategic direction, managing operations, and cultivating a collaborative culture across mathematics, biomedical science, and clinical data science.",
+        "Secured and managed competitive research funding including NSF Co-PI grant ($300K); built cross-disciplinary partnerships with clinical collaborators at regional medical centers and national research institutions.",
+        "Supervised and mentored researchers across career stages, overseeing projects from conception through peer-reviewed publication and conference dissemination.",
+        "Led development and execution of multi-investigator research initiatives spanning mathematics, biomedical science, and clinical collaboration."
+      ]
+    },
+    {
+      "company": "Montclair State University",
+      "title": "Assistant Professor of Mathematics (Tenure-Track)",
+      "dates": "2014-09 - 2020-06",
+      "location": "Montclair, NJ",
+      "bullets": [
+        "Held a tenure-track faculty appointment with responsibilities spanning teaching, research, and academic leadership across undergraduate and graduate applied mathematics programs.",
+        "Taught a broad range of courses from introductory mathematics to advanced graduate-level applied mathematics, serving a diverse student population.",
+        "Received the Excellence in Teaching Award (2018) from The National Society of Leadership and Success.",
+        "Secured competitive research funding as NSF Co-PI and through Separately Budgeted Research Awards, Nussbaum Research Grant, and Faculty-Student Research Awards.",
+        "Coordinated PreCalculus and BioCalculus/Calculus A sequences across multiple sections and instructors and served as liaison to the Academic Success Center.",
+        "Taught summer courses at Universidad del Valle de Atemajac (UNIVA) in Guadalajara, Mexico (2017, 2018, 2019)."
+      ]
+    },
+    {
+      "company": "Massachusetts General Hospital / Harvard Medical School",
+      "title": "Postdoctoral Research Fellow",
+      "dates": "2012-08 - 2014-07",
+      "location": "Greater Boston, MA",
+      "bullets": [
+        "Conducted postdoctoral research in the Pulmonary Imaging and Bioengineering Laboratory under Dr. Tilo Winkler.",
+        "Investigated airway behavior during asthma attacks using a comprehensive mathematical lung model and extensive computational simulations validated by in-vivo animal studies.",
+        "Developed computational models and imaging methodologies for quantitative analysis of physiological systems.",
+        "Co-chaired the MGH Postdoc Association, growing membership and programming significantly during tenure.",
+        "Collaborated with interdisciplinary teams of clinicians, engineers, and researchers on NIH-supported projects, publishing peer-reviewed research and presenting at national scientific conferences."
+      ]
+    }
+  ],
+  "skills": {
+    "moderate": [
+      "Deep Learning & AI/ML",
+      "Sensor Evaluation & Integration",
+      "Algorithm Development",
+      "IP Development & Invention Disclosure",
+      "Design Controls & V&V",
+      "Clinical & Translational Research"
+    ],
+    "strong": [
+      "Computational Modeling",
+      "Medical Device R&D",
+      "Laboratory Operations",
+      "Microbiology",
+      "Data-Driven Analysis",
+      "Clinical Translational Development",
+      "Cross-Functional Leadership",
+      "Program Management",
+      "Scientific Strategy",
+      "Team Development"
+    ],
+    "gaps": [
+      "Front-end web development",
+      "Mobile application engineering",
+      "Enterprise sales operations"
+    ]
+  },
+  "projects": [
+    {
+      "title": "PD Kinetic Model Simulator",
+      "description": "Developed an iterative computational simulator to model peritoneal dialysis kinetics and support therapy optimization.",
+      "impact": "Advanced through 14+ progressive iterations and informed therapy design decisions across Fresenius PD programs.",
+      "tags": ["Python", "Computational Modeling", "Medical Device", "PD Therapy"]
+    },
+    {
+      "title": "Sensor Testing & PD Connectology Study",
+      "description": "Led a program of sensor testing experiments comparing FME vs. Baxter CAPD and developing in vitro test setups for evidence generation.",
+      "impact": "Completed 175+ sensor-testing experiments and produced results that shaped strategic PD connectology decisions.",
+      "tags": ["Sensor Evaluation", "Microbiology", "In Vitro", "Data Analysis"]
+    },
+    {
+      "title": "Quantitative Obesity Research Center",
+      "description": "Established and led an interdisciplinary academic research center focused on quantitative modeling of metabolic health and obesity.",
+      "impact": "Secured NSF Co-PI funding including a $300K award and built cross-disciplinary clinical research collaborations.",
+      "tags": ["MATLAB", "Mathematical Modeling", "Clinical Research", "NSF Grant"]
+    },
+    {
+      "title": "Adjunct Mathematics Instructor Resources & Support",
+      "description": "Led an NSF-funded initiative to develop resources and support for adjunct mathematics instructors, strengthening instructional quality and professional development.",
+      "impact": "Helped improve adjunct teaching outcomes and instructor retention through evidence-based academic support, mentorship, and instructional resources.",
+      "tags": ["Curriculum Design", "NSF Grant", "Program Management", "Education"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dartmouth College",
+      "degree": "Ph.D., Biomedical Engineering",
+      "years": "2007 - 2012"
+    },
+    {
+      "institution": "Dartmouth College",
+      "degree": "Certificate, Engineering Management",
+      "years": "2009 - 2011"
+    },
+    {
+      "institution": "Montclair State University",
+      "degree": "B.S., Mathematics",
+      "years": "2005 - 2007"
+    }
+  ],
+  "recommendations": [
+    {
+      "name": "Eduardo Salcedo",
+      "title": "Assistant Professor, Miami Dade College",
+      "date": "Feb. 2023",
+      "text": "I had the privilege of working directly under Amir's leadership for nearly two years, and I can say without hesitation: working under Amir was the best professional experience of my career.\nAmir, above all, is a leader who invests deeply in the people around him. He didn't merely manage tasks; he genuinely cared about my professional growth. He assigned me challenging projects that pushed me beyond my comfort zone, provided constructive and thoughtful feedback, and consistently created opportunities for me to develop new skills. He led by example, setting a standard of excellence while empowering the team to make meaningful decisions independently. Micromanagement was simply not in his vocabulary.\nAs a communicator, Amir was exceptional. He ensured that the team remained aligned and informed, removing any surprises or ambiguity regarding direction or expectations. He consistently made himself accessible and approachable, actively fostering an environment where open dialogue was encouraged, even when dissenting views were expressed. This genuine sense of being heard made a significant positive impact on the team.\nAmir's most remarkable trait was his unwavering integrity. When things didn't go as planned, he took full responsibility rather than deflecting blame onto his team. He actively advocated for us to senior leadership, fought for our recognition, and consistently treated everyone with fairness and impartiality. People always knew where they stood with him, and they deeply respected him for it.\nThe culture Amir cultivated was truly exceptional. He created a psychologically safe environment where individuals felt empowered to take risks, share their ideas, and deliver their best work. Our team's morale was high not because things were always easy, but because people genuinely wanted to perform for him. Amir's ability to retain strong talent and attract others who shared his vision for what he was building made his legacy truly remarkable.\nAny organization would be fortunate to have Amir in a leadership role. I give him my highest recommendation."
+    }
+  ],
+  "meta": {
+    "siteTitle": "Amir Golnabi Portfolio",
+    "siteDescription": "Portfolio and professional profile for Amir H. Golnabi, Ph.D., MedTech R&D leader.",
+    "tagline": "MedTech R&D leader translating science into clinical products"
+  }
+}
