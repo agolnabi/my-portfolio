@@ -64,12 +64,12 @@ export default function Hero({ hero }: { hero: HeroData }) {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5, delay: 0.1 }}
         >
-          <div className="w-36 h-36 sm:w-44 sm:h-44 rounded-2xl overflow-hidden border border-zinc-800">
+          <div className="w-72 h-72 sm:w-[352px] sm:h-[352px] rounded-2xl overflow-hidden border border-zinc-800">
             <Image
               src={hero.profileImage}
               alt={hero.name}
-              width={176}
-              height={176}
+              width={352}
+              height={352}
               className="object-cover w-full h-full"
               priority
             />
