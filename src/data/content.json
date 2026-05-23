@@ -2,7 +2,7 @@
   "hero": {
     "name": "Amir H. Golnabi, Ph.D.",
     "title": "MedTech R&D Leader | Scientific & People Leadership",
-    "pitch": "I am a MedTech R&D leader with 15+ years translating biomedical science and computational modeling into clinically impactful products. I currently lead peritoneal dialysis R&D at Fresenius Medical Care and drive end-to-end therapy development informed by advanced simulation work. I led the PD kinetic model simulator through 14+ progressive iterations and completed 175+ sensor-testing experiments supporting precision PD decisions. I also build and mentor cross-functional teams to deliver regulated, data-driven medical device programs.",
+    "pitch": "I am a MedTech R&D leader with 15+ years building high-performing teams and translating biomedical science, computational modeling, and data-driven innovation into clinically impactful therapies and products. As Sr. Staff Scientist at Fresenius Medical Care, I lead peritoneal dialysis R&D from early-stage research through translational product development in a regulated healthcare environment — driving scientific strategy, laboratory operations, IP development, and cross-functional execution across engineering, clinical, regulatory, and product teams. \nI lead by enabling people. I build and mentor multidisciplinary teams, create environments where technical rigor and innovation thrive, and consistently deliver results under resource-constrained, ambiguous conditions. My work spans industry R&D, academic research, and technical education — grounded in a Ph.D. in Biomedical Engineering from Dartmouth College and postdoctoral training at Massachusetts General Hospital and Harvard Medical School.",
     "profileImage": "/ProfilePicture.jpg",
     "email": "agolnabi@gmail.com",
     "linkedin": "https://linkedin.com/in/agolnabi",
@@ -15,9 +15,15 @@
       "dates": "2025-09 - present",
       "location": "New York, NY",
       "bullets": [
-        "Lead and mentor scientists and engineers to deliver one of the few R&D projects consistently on track in 2025 (performance rating: 3.5/4.0).",
-        "Drive end-to-end peritoneal dialysis R&D programs coordinating engineering, clinical, regulatory, quality, and manufacturing stakeholders.",
-        "Spearhead the PD kinetic model simulator through 14+ progressive iterations to optimize therapy design and performance."
+        "Lead cross-functional R&D programs in peritoneal dialysis, driving end-to-end development of therapy concepts from early-stage research through translational and product development",
+        "Lead microbiology laboratory activities, including contamination assessment and risk evaluation, contributing directly to improved product safety, reliability, and patient outcomes",
+        "Manage and mentor laboratory personnel and scientists, including technical oversight, task prioritization, interviewing, hiring support, and performance development activities",
+        "Drive scientific and technical strategy within the Therapy Concept and Research group, helping define, develop, and execute Value Stream PD strategies aligned with organizational priorities",
+        "Provide technical leadership in advanced modeling, simulation, and data-driven analysis to support therapy design, optimization, and performance evaluation",
+        "Oversee multiple concurrent R&D initiatives across engineering, clinical, and research functions, ensuring execution against program milestones and strategic objectives",
+        "Contribute to intellectual property development, including invention disclosure, technical documentation, and support for patentable innovations in PD technologies",
+        "Lead cross-functional collaboration across clinical, engineering, regulatory, and manufacturing stakeholders, ensuring translational alignment from concept to product development",
+        "Lead and mentor scientists, engineers, and laboratory staff, strengthening technical capability, execution, and cross-functional collaboration across the organization"
       ]
     },
     {
@@ -26,9 +32,12 @@
       "dates": "2023-04 - 2025-08",
       "location": "New York, NY",
       "bullets": [
-        "Built and led a high-performing research team and completed 175+ sensor-testing experiments that informed PD connectology decisions.",
-        "Led development of glucose estimation algorithms and electrolyte concentration models using ultrasound measurements.",
-        "Designed and implemented computational frameworks for therapy performance data analysis and contributed to strategic PD roadmaps."
+        "Led advanced modeling and simulation initiatives supporting peritoneal dialysis therapy development and system optimization",
+        "Contributed to strategic R&D programs focused on improving clinical performance and patient outcomes",
+        "Designed and implemented computational frameworks for data-driven analysis of therapy performance",
+        "Supported cross-functional collaboration between engineering, clinical, and product teams",
+        "Played a key role in internal research initiatives and technology evaluation efforts",
+        "Recognized for contributions to scientific innovation and applied research excellence"
       ]
     },
     {
@@ -59,7 +68,7 @@
     {
       "company": "Phillips Exeter Academy",
       "title": "Instructor in Mathematics",
-      "dates": "2020-08 - 2022-06",
+      "dates": "2020-08 - 2021-06",
       "location": "Exeter, NH",
       "bullets": [
         "Delivered advanced mathematics instruction within a highly rigorous academic environment.",
@@ -83,7 +92,7 @@
     },
     {
       "company": "Montclair State University",
-      "title": "Assistant Professor of Mathematics (Tenure-Track)",
+      "title": "Assistant Professor of Mathematics",
       "dates": "2014-09 - 2020-06",
       "location": "Montclair, NJ",
       "bullets": [
