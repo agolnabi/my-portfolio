@@ -7,6 +7,7 @@ type ContactData = {
   name: string;
   email: string;
   linkedin: string;
+  googleScholar: string;
   openTo: string[];
 };
 
@@ -52,6 +53,14 @@ export default function Contact({ hero }: { hero: ContactData }) {
             className="px-6 py-3 rounded-full border border-zinc-700 text-zinc-300 text-sm font-medium hover:border-zinc-500 hover:text-white transition-colors"
           >
             LinkedIn Profile
+          </a>
+          <a
+            href={hero.googleScholar}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-6 py-3 rounded-full border border-zinc-700 text-zinc-300 text-sm font-medium hover:border-zinc-500 hover:text-white transition-colors"
+          >
+            Google Scholar
           </a>
         </div>
       </motion.div>
