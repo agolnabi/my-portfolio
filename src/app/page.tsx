@@ -3,6 +3,7 @@ import Hero from "@/components/Hero";
 import Education from "@/components/Education";
 import Experience from "@/components/Experience";
 import Skills from "@/components/Skills";
+import Certifications from "@/components/Certifications";
 import Projects from "@/components/Projects";
 import Recommendations from "@/components/Recommendations";
 import Contact from "@/components/Contact";
@@ -31,6 +32,12 @@ export default function Home() {
       <section className="w-full px-6 py-20 border-t border-zinc-800">
         <div className="max-w-4xl mx-auto">
           <Skills skills={content.skills} />
+        </div>
+      </section>
+
+      <section className="w-full px-6 py-20 border-t border-zinc-800">
+        <div className="max-w-4xl mx-auto">
+          <Certifications certifications={content.certifications} />
         </div>
       </section>
 

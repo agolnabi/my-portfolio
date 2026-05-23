@@ -119,32 +119,137 @@
     }
   ],
   "skills": {
-    "moderate": [
-      "Deep Learning & AI/ML",
-      "Sensor Evaluation & Integration",
-      "Algorithm Development",
-      "IP Development & Invention Disclosure",
-      "Design Controls & V&V",
-      "Clinical & Translational Research"
-    ],
-    "strong": [
-      "Computational Modeling",
-      "Medical Device R&D",
-      "Laboratory Operations",
-      "Microbiology",
-      "Data-Driven Analysis",
-      "Clinical Translational Development",
-      "Cross-Functional Leadership",
-      "Program Management",
-      "Scientific Strategy",
-      "Team Development"
-    ],
-    "gaps": [
-      "Front-end web development",
-      "Mobile application engineering",
-      "Enterprise sales operations"
+    "categories": [
+      {
+        "name": "Leadership & Management",
+        "items": [
+          "People Leadership & Team Development",
+          "Mentorship & Talent Enablement",
+          "Hiring, Onboarding & Performance Management",
+          "Cross-Functional Program Leadership",
+          "R&D Strategy & Execution",
+          "Scientific Strategy & Innovation",
+          "Portfolio & Program Management",
+          "Agile / Product Ownership (Scrum, Kanban, Design Thinking)",
+          "Stakeholder Alignment & Executive Communication",
+          "Budget Management under resource-constrained environments"
+        ]
+      },
+      {
+        "name": "Technical & Scientific",
+        "items": [
+          "Computational Modeling & Simulation",
+          "Medical Device R&D",
+          "Therapy & Product Development",
+          "Peritoneal Dialysis Therapy Development",
+          "Microbiology Laboratory Operations",
+          "Biomedical Imaging (Microwave, MRI, Ultrasound)",
+          "Medical Image Reconstruction & Processing",
+          "Algorithm Development & Mathematical Modeling",
+          "Sensor Evaluation & Integration",
+          "Clinical & Translational Research",
+          "Deep Learning & AI/ML",
+          "Data-Driven Analytics",
+          "IP Development & Invention Disclosure",
+          "Design Controls & V&V",
+          "In Vitro Experimental Design"
+        ]
+      },
+      {
+        "name": "Regulatory & Compliance",
+        "items": [
+          "ISO 13485 - Quality Management System for Medical Devices",
+          "QMSR (21 CFR Part 820) - FDA Quality Management System Regulation",
+          "HIPAA Privacy & Security",
+          "Design Controls",
+          "Regulated Healthcare R&D Environment"
+        ]
+      },
+      {
+        "name": "Programming & Tools",
+        "items": [
+          "Programming: Python, MATLAB, SQL, FORTRAN, C, R, SPSS",
+          "Mathematics: MATLAB, Maple, Mathematica, Octave",
+          "Statistical: SPSS, Minitab, R",
+          "Imaging & Viz: ImageJ, OsiriX, Horos, Mimics, Tecplot, ParaView",
+          "Design: Photoshop, CorelDraw, SketchUp, SolidWorks",
+          "Productivity: MS Office, LaTeX, Linux, Asana, Jira",
+          "Web: HTML/CSS, Dreamweaver",
+          "PM Tools: Smartsheet, Google Workspace"
+        ]
+      },
+      {
+        "name": "Languages",
+        "items": [
+          "English: Native / Bilingual",
+          "Spanish: Native / Bilingual",
+          "Persian: Native / Bilingual"
+        ]
+      }
     ]
   },
+  "certifications": [
+    {
+      "title": "Product Owner Training",
+      "organization": "Boris Gloger (borisgloger)",
+      "date": "Dec. 2025"
+    },
+    {
+      "title": "ISO 13485 Introduction",
+      "organization": "Fresenius Medical Care",
+      "date": "Apr. 2026"
+    },
+    {
+      "title": "QMSR (DEV43 Ver 4.0)",
+      "organization": "Fresenius Medical Care",
+      "date": "Feb. 2026"
+    },
+    {
+      "title": "HIPAA Privacy & Security",
+      "organization": "Fresenius Medical Care",
+      "date": "Oct. 2025"
+    },
+    {
+      "title": "Project Planning: Putting It All Together",
+      "organization": "Google / Coursera",
+      "date": "Feb. 2024"
+    },
+    {
+      "title": "Project Initiation: Starting a Successful Project",
+      "organization": "Coursera",
+      "date": "Mar. 2023"
+    },
+    {
+      "title": "Foundations of Project Management",
+      "organization": "Coursera",
+      "date": "Feb. 2023"
+    },
+    {
+      "title": "The Manager's Toolkit",
+      "organization": "University of London / Coursera",
+      "date": "Feb. 2023"
+    },
+    {
+      "title": "Leadership Accelerator",
+      "organization": "Ramona Shaw LLC",
+      "date": "Feb. 2023"
+    },
+    {
+      "title": "Engineering Management Certificate",
+      "organization": "Dartmouth College / Tuck",
+      "date": "2011"
+    },
+    {
+      "title": "Six Sigma Green Belt",
+      "organization": "Dartmouth College",
+      "date": "2008"
+    },
+    {
+      "title": "Empowering Online Teaching",
+      "organization": "Montclair State University",
+      "date": "Dec. 2019"
+    }
+  ],
   "projects": [
     {
       "title": "PD Kinetic Model Simulator",
