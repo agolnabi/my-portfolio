@@ -189,6 +189,88 @@
       }
     ]
   },
+  "leadershipPhilosophy": [
+    "Leadership is a role to be earned, not a title to be given. I believe in earning trust through consistent action, transparency, and genuine investment in the people I lead. My philosophy centers on three principles: enabling people to do their best work by removing obstacles and providing clear direction; building psychological safety so that team members feel comfortable sharing ideas, raising concerns, and admitting mistakes; and modeling the standards I hold others to.",
+    "I am most energized when I see someone I have mentored grow into full ownership of their work. I approach mentorship not as a transactional activity but as a long-term investment in both the individual and the organization. I believe diverse, well-coordinated teams consistently outperform individual brilliance, and I invest heavily in building team cohesion, clarity of purpose, and mutual accountability.",
+    "On the technical side, I believe rigorous science and practical execution are not in tension. The best R&D leaders hold high scientific standards while also driving toward real-world impact. I am comfortable operating at multiple levels simultaneously: contributing to strategic direction while staying close enough to the work to provide meaningful technical guidance."
+  ],
+  "awards": [
+    {
+      "title": "Sylvia Sorkin Greenfield Award",
+      "detail": "Best paper in Medical Physics, AAPM",
+      "year": "2014"
+    },
+    {
+      "title": "IEEE MTT-S Graduate Fellowship",
+      "detail": "Medical Applications — one of two awarded globally per year",
+      "year": "2010"
+    },
+    {
+      "title": "NSF Co-PI Grant",
+      "detail": "Adjunct Mathematics Instructor Resources & Support — $300,000",
+      "year": "2017–2020"
+    },
+    {
+      "title": "Excellence in Teaching Award",
+      "detail": "National Society of Leadership and Success",
+      "year": "2018"
+    },
+    {
+      "title": "Nussbaum Research Grant",
+      "detail": "St. Barnabas Medical Center, NJ",
+      "year": "2017"
+    },
+    {
+      "title": "Separately Budgeted Research Award",
+      "detail": "Montclair State University — $4,000",
+      "year": "2018–2019"
+    },
+    {
+      "title": "Sokol Faculty-Student Research Awards (×2)",
+      "detail": "Montclair State University — $4,000 each",
+      "year": "2015–16, 2017–18"
+    },
+    {
+      "title": "Summer Grant Proposal Awards (×2)",
+      "detail": "Montclair State University — $11,685",
+      "year": "2016, 2017"
+    },
+    {
+      "title": "Best Paper Award",
+      "detail": "IEEE Topical Conference on Biomedical Wireless Technologies",
+      "year": "2011"
+    },
+    {
+      "title": "SPIE Scholarships in Optical Science (×2)",
+      "detail": "Society of Photo-Optical Instrumentation Engineers",
+      "year": "2009, 2010"
+    },
+    {
+      "title": "Dartmouth Graduate Fellowship",
+      "detail": "Dartmouth College",
+      "year": "2007–2012"
+    },
+    {
+      "title": "Outstanding International Student Fellowship",
+      "detail": "Montclair State University",
+      "year": "2007"
+    },
+    {
+      "title": "Student Research Symposium, 1st Place",
+      "detail": "Montclair State University",
+      "year": "2007"
+    },
+    {
+      "title": "Summa Cum Laude",
+      "detail": "Montclair State University",
+      "year": "2007"
+    },
+    {
+      "title": "Federal Fellowship",
+      "detail": "Universidad de Salamanca, Spain",
+      "year": "2002–2005"
+    }
+  ],
   "certifications": [
     {
       "title": "Product Owner Training",

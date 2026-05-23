@@ -7,8 +7,10 @@ const links = [
   { label: "Education", href: "#education" },
   { label: "Experience", href: "#experience" },
   { label: "Skills", href: "#skills" },
+  { label: "Leadership", href: "#leadership" },
+  { label: "Awards", href: "#awards" },
   { label: "Certifications", href: "#certifications" },
-  { label: "Selected Projects", href: "#projects" },
+  { label: "Projects", href: "#projects" },
   { label: "Recommendations", href: "#recommendations" },
   { label: "Contact", href: "#contact" },
 ];
