@@ -13,7 +13,7 @@ type Project = {
 export default function Projects({ projects }: { projects: Project[] }) {
   return (
     <div id="projects">
-      <SectionHeading>Projects</SectionHeading>
+      <SectionHeading>Selected Projects</SectionHeading>
       <div className="grid sm:grid-cols-2 gap-5">
         {projects.map((project, i) => (
           <motion.div
