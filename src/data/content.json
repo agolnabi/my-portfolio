@@ -37,9 +37,34 @@
       "dates": "2021-08 - 2023-04",
       "location": "Remote",
       "bullets": [
-        "Led curriculum strategy and program delivery across multiple university sites, improving program consistency and scalability.",
-        "Managed distributed instructors and technical staff with hiring, onboarding, and performance management responsibilities.",
-        "Drove program improvements using data-driven evaluation of participant outcomes and operational metrics."
+        "Led curriculum development and program delivery across multiple university sites, ensuring consistency, quality, and scalability.",
+        "Managed and led a distributed team of instructors and technical staff supporting training programs in data science, ML, and responsible AI, including hiring, onboarding, performance management, and curriculum oversight.",
+        "Designed and implemented training frameworks to support instructors and improve program effectiveness.",
+        "Drove program improvements through data-driven evaluation of outcomes and participant feedback.",
+        "Directed cross-functional program delivery and coordinated instructors, technical contributors, and external partners across multiple concurrent initiatives."
+      ]
+    },
+    {
+      "company": "School Year Abroad (SYA)",
+      "title": "Mathematics Teacher",
+      "dates": "2021-07 - 2022-06",
+      "location": "Zaragoza, Spain",
+      "bullets": [
+        "Designed and delivered mathematics curriculum in an international academic setting.",
+        "Fostered student engagement and critical thinking through rigorous, student-centered instruction.",
+        "Collaborated with faculty across disciplines to support a holistic educational experience.",
+        "Adapted teaching methods to diverse cultural and academic backgrounds."
+      ]
+    },
+    {
+      "company": "Phillips Exeter Academy",
+      "title": "Instructor in Mathematics",
+      "dates": "2020-08 - 2022-06",
+      "location": "Exeter, NH",
+      "bullets": [
+        "Delivered advanced mathematics instruction within a highly rigorous academic environment.",
+        "Emphasized problem-solving, analytical thinking, and student-led learning methodologies.",
+        "Mentored students academically and supported their intellectual development."
       ]
     },
     {
@@ -48,10 +73,12 @@
       "dates": "2016-09 - 2020-06",
       "location": "Montclair, NJ",
       "bullets": [
-        "Founded and led an interdisciplinary research center, setting strategic direction, managing operations, and cultivating a collaborative culture across mathematics, biomedical science, and clinical data science.",
-        "Secured and managed competitive research funding including NSF Co-PI grant ($300K); built cross-disciplinary partnerships with clinical collaborators at regional medical centers and national research institutions.",
-        "Supervised and mentored researchers across career stages, overseeing projects from conception through peer-reviewed publication and conference dissemination.",
-        "Led development and execution of multi-investigator research initiatives spanning mathematics, biomedical science, and clinical collaboration."
+        "Directed strategy, operations, and research portfolio for an interdisciplinary center focused on quantitative modeling and data-driven approaches to obesity and metabolic health.",
+        "Led development and execution of multi-investigator research initiatives spanning mathematics, biomedical science, and clinical collaboration.",
+        "Secured and supported research funding efforts, including institutional grants, to sustain and expand center activities.",
+        "Built and managed cross-functional academic and clinical collaborations, integrating expertise across engineering, medicine, and data science disciplines.",
+        "Oversaw research program development, ensuring alignment with institutional priorities, funding opportunities, and scholarly impact objectives.",
+        "Provided organizational leadership for research dissemination, including publications, presentations, and external academic engagement initiatives."
       ]
     },
     {
@@ -60,12 +87,12 @@
       "dates": "2014-09 - 2020-06",
       "location": "Montclair, NJ",
       "bullets": [
-        "Held a tenure-track faculty appointment with responsibilities spanning teaching, research, and academic leadership across undergraduate and graduate applied mathematics programs.",
+        "Held tenure-track faculty appointment with responsibilities spanning teaching, research, and academic leadership across undergraduate and graduate applied mathematics programs.",
         "Taught a broad range of courses from introductory mathematics to advanced graduate-level applied mathematics, serving a diverse student population.",
-        "Received the Excellence in Teaching Award (2018) from The National Society of Leadership and Success.",
-        "Secured competitive research funding as NSF Co-PI and through Separately Budgeted Research Awards, Nussbaum Research Grant, and Faculty-Student Research Awards.",
-        "Coordinated PreCalculus and BioCalculus/Calculus A sequences across multiple sections and instructors and served as liaison to the Academic Success Center.",
-        "Taught summer courses at Universidad del Valle de Atemajac (UNIVA) in Guadalajara, Mexico (2017, 2018, 2019)."
+        "Received the Excellence in Teaching Award (2018) from The National Society of Leadership and Success in recognition of sustained instructional excellence.",
+        "Secured competitive research funding, including NSF support, Separately Budgeted Research Awards, Nussbaum Research Grant, and Faculty-Student Research Awards supporting an active independent research program.",
+        "Coordinated key academic programs, including PreCalculus and Calculus/BioCalculus sequences, contributing to curriculum design, consistency, and student success outcomes.",
+        "Supervised and mentored undergraduate and graduate students, and a postdoctoral researcher, while also coordinating key academic programs and serving in departmental leadership and liaison roles."
       ]
     },
     {
@@ -158,6 +185,30 @@
       "title": "Assistant Professor, Miami Dade College",
       "date": "Feb. 2023",
       "text": "I had the privilege of working directly under Amir's leadership for nearly two years, and I can say without hesitation: working under Amir was the best professional experience of my career.\nAmir, above all, is a leader who invests deeply in the people around him. He didn't merely manage tasks; he genuinely cared about my professional growth. He assigned me challenging projects that pushed me beyond my comfort zone, provided constructive and thoughtful feedback, and consistently created opportunities for me to develop new skills. He led by example, setting a standard of excellence while empowering the team to make meaningful decisions independently. Micromanagement was simply not in his vocabulary.\nAs a communicator, Amir was exceptional. He ensured that the team remained aligned and informed, removing any surprises or ambiguity regarding direction or expectations. He consistently made himself accessible and approachable, actively fostering an environment where open dialogue was encouraged, even when dissenting views were expressed. This genuine sense of being heard made a significant positive impact on the team.\nAmir's most remarkable trait was his unwavering integrity. When things didn't go as planned, he took full responsibility rather than deflecting blame onto his team. He actively advocated for us to senior leadership, fought for our recognition, and consistently treated everyone with fairness and impartiality. People always knew where they stood with him, and they deeply respected him for it.\nThe culture Amir cultivated was truly exceptional. He created a psychologically safe environment where individuals felt empowered to take risks, share their ideas, and deliver their best work. Our team's morale was high not because things were always easy, but because people genuinely wanted to perform for him. Amir's ability to retain strong talent and attract others who shared his vision for what he was building made his legacy truly remarkable.\nAny organization would be fortunate to have Amir in a leadership role. I give him my highest recommendation."
+    },
+    {
+      "name": "Roshni Kasad",
+      "title": "Program and Partnerships Management | Passionate about Education and Equity",
+      "date": "Feb. 2023",
+      "text": "Amir and I worked together while at AI4ALL on the College Pathways initiative. He has a unique combo of technical, pedagogical, and project management expertise. When approached with a challenge, Amir is calm and collected about how to resolve it. He is incredibly thoughtful in his approach and thoroughly dependable in executing his work. I would be excited for the opportunity to work with him again at some point. In addition to being incredibly effective at his work, he also adds a sense of warmth and fun to the team culture."
+    },
+    {
+      "name": "Bogdan G. Nita",
+      "title": "Professor at Montclair State University",
+      "date": "Nov. 2019",
+      "text": "I have known Amir for more than 10 years and we have been colleagues in the Department of Mathematics at Montclair State University for more than 5 years. Amir is an outstanding researcher, teacher and mentor, a great colleague ready to take on any service task no matter how small or difficult, and a great human being in general. He is loved by students who consider him one of the best professors in our Department. He is a pleasure to interact with and a valuable asset to any College."
+    },
+    {
+      "name": "Ann Skoczenski, PhD",
+      "title": "Director of Postdoctoral Services, Massachusetts Institute of Technology",
+      "date": "Mar. 2019",
+      "text": "As a postdoctoral research fellow at Massachusetts General Hospital, Amir joined the Mass General Postdoc Association (MGPA), a group that I advise, which is organized by and for MGH research fellows. Amir quickly demonstrated his organizational and leadership skills, and within a year he took on the position of co-chair, the top executive position in the association. Thanks to Amir's skills and dedication, the MGPA membership and programming grew significantly during his tenure as co-chair."
+    },
+    {
+      "name": "Marina Savransky, MA, CRA",
+      "title": "Supervisor, Grants & Agreements at Hackensack Meridian Health, Center for Discovery & Innovation (CDI)",
+      "date": "Feb. 2019",
+      "text": "I assisted Amir on several of his grant applications to various Federal and private foundations. Amir is very passionate about his research and always sought to create very strong proposals to advance his research. His hard work paid off as he was awarded prestigious grants supporting his work from agencies such as the National Science Foundation (NSF). Amir is both a strong individual researcher as well as an excellent collaborator in teams. It was always a pleasure to work with Amir, I highly endorse his research and grantsmanship skills."
     }
   ],
   "meta": {

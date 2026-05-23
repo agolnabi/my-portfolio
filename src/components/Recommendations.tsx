@@ -10,11 +10,15 @@ type Recommendation = {
   text: string;
 };
 
-export default function Recommendations({ recommendations }: { recommendations: Recommendation[] }) {
+export default function Recommendations({
+  recommendations,
+}: {
+  recommendations: Recommendation[];
+}) {
   return (
-    <section id="recommendations">
+    <div id="recommendations">
       <SectionHeading>Recommendations</SectionHeading>
-      <div className="space-y-8">
+      <div className="flex flex-col gap-5">
         {recommendations.map((rec, i) => (
           <motion.div
             key={i}
@@ -22,23 +26,34 @@ export default function Recommendations({ recommendations }: { recommendations: 
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.4, delay: i * 0.07 }}
-            className="rounded-xl border border-zinc-200 p-6"
+            className="rounded-xl border border-zinc-800 bg-zinc-900/50 p-6 flex flex-col gap-4 hover:border-zinc-700 transition-colors"
           >
-            <div className="flex flex-col sm:flex-row sm:justify-between sm:items-start gap-1 mb-4">
-              <div>
-                <p className="font-semibold text-zinc-900">{rec.name}</p>
-                <p className="text-sm text-blue-700">{rec.title}</p>
-              </div>
-              <p className="text-sm text-zinc-400 shrink-0">{rec.date}</p>
-            </div>
-            <div className="text-sm text-zinc-600 leading-relaxed space-y-3">
+            <svg
+              className="text-[#3b82f6] opacity-60 shrink-0"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="currentColor"
+            >
+              <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z" />
+            </svg>
+            <div className="flex flex-col gap-2">
               {rec.text.split("\n").map((para, j) => (
-                <p key={j}>{para}</p>
+                <p key={j} className="text-sm text-zinc-300 leading-relaxed">
+                  {para}
+                </p>
               ))}
+            </div>
+            <div className="flex items-start justify-between gap-4 pt-2 border-t border-zinc-800">
+              <div>
+                <p className="text-sm font-semibold text-[#ededed]">{rec.name}</p>
+                <p className="text-xs text-zinc-400 mt-0.5">{rec.title}</p>
+              </div>
+              <span className="text-xs text-zinc-500 shrink-0 pt-0.5">{rec.date}</span>
             </div>
           </motion.div>
         ))}
       </div>
-    </section>
+    </div>
   );
 }

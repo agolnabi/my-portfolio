@@ -1,9 +1,10 @@
 import content from "@/data/content.json";
 import Hero from "@/components/Hero";
+import Education from "@/components/Education";
 import Experience from "@/components/Experience";
 import Skills from "@/components/Skills";
 import Projects from "@/components/Projects";
-import Education from "@/components/Education";
+import Recommendations from "@/components/Recommendations";
 import Contact from "@/components/Contact";
 
 export default function Home() {
@@ -12,6 +13,12 @@ export default function Home() {
       <section className="w-full px-6 py-20">
         <div className="max-w-4xl mx-auto">
           <Hero hero={content.hero} />
+        </div>
+      </section>
+
+      <section className="w-full px-6 py-20 border-t border-zinc-800">
+        <div className="max-w-4xl mx-auto">
+          <Education education={content.education} />
         </div>
       </section>
 
@@ -35,7 +42,7 @@ export default function Home() {
 
       <section className="w-full px-6 py-20 border-t border-zinc-800">
         <div className="max-w-4xl mx-auto">
-          <Education education={content.education} />
+          <Recommendations recommendations={content.recommendations} />
         </div>
       </section>
 
