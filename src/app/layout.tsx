@@ -5,6 +5,7 @@ import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 import ChatAssistant from "@/components/ChatAssistant";
 import content from "@/data/content.json";
+import { Analytics } from "@vercel/analytics/next";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -28,6 +29,7 @@ export default function RootLayout({
         <main className="pt-16">{children}</main>
         <Footer />
         <ChatAssistant />
+        <Analytics />
       </body>
     </html>
   );
